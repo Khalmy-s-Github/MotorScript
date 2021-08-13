@@ -1,1 +1,0 @@
-/motor is het command 
